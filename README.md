@@ -5,6 +5,8 @@
 ダミーデータを登録しているので、自由に追加や編集等行ってください。
 
 
+※Cloud Firestoreの代わりにMySQL, Reduxの代わりにTanStackQueryを使い書き換えたバージョンは[こちら](https://github.com/michiru-dev/HR-App-TanstackQuery)
+
 #### フロントエンド
 - React.js 18.2
 - React-router-dom 6.10
